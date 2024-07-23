@@ -1,0 +1,25 @@
+[book]
+authors = ["Hector Peng"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "又一本 Tcl/Tk 教程"
+description = "Yet another Tcl/Tk tutorial"
+
+[preprocessor.last-changed]
+command = "mdbook-last-changed"
+renderer = ["html"]
+
+
+[preprocessor.pagetoc]
+[output.html]
+additional-css = ["theme/pagetoc.css"]
+additional-js  = ["theme/pagetoc.js"]
+git-repository-url = "https://github.com/gnu4cn/tcl-learnings"
+git-repository-icon = "fa-github"
+
+[output.html.print]
+enable = false
+
+[output.html.search]
+enable = false
