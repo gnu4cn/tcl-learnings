@@ -15,7 +15,7 @@
 
 这里将使用 [A Tcl(Tutorial for Cool Languages) for Tcl/Tk](https://bin-co.com/tcl/tutorial/)。
 
-[Tcl/Tk](https://www.tcl-lang.org/) -- 一种语言，多种用途。使用强大的 TK 库，其可用于 GUI（图形用户界面，Graphic User Interface）的开放。*Tcl/Tk* 作为网景和微软公司构造的网络浏览器插件运行。因此，他可以用来替代 JavaScript 和 VBScript。他是一种 CGI 语言，可用于服务器。*Tcl-Tk* 还具有极强的可扩展性 -- 对于想学习高级脚本语言来制作用户界面，或集成大型系统的 C/C++ 程序员来说，Tcl/Tk 非常有价值。
+[Tcl/Tk](https://www.tcl-lang.org/) -- 一种语言，多种用途。使用强大的 TK 库，其可用于 GUI（图形用户界面，Graphic User Interface）的开发。*Tcl/Tk* 作为网景和微软公司构造的网络浏览器插件运行。因此，他可以用来替代 JavaScript 和 VBScript。他是一种 CGI 语言，可用于服务器。*Tcl-Tk* 还具有极强的可扩展性 -- 对于想学习高级脚本语言来制作用户界面，或集成大型系统的 C/C++ 程序员来说，Tcl/Tk 非常有价值。
 
 Tcl 是 **工具命令语言，Tool Command Language** 的缩写。 **Tcl** 及其相关 GUI 工具包 **Tk**，是由加州大学伯克利分校的 John Ousterhout 教授创建。Tcl 是一种脚本语言，a scripting language，可在 Windows、UNIX 和 Macintosh 平台上运行。Tk 是 Tcl 的标准插件，a standard add-on to Tcl，提供了快速、轻松创建用户界面的命令。尽管 Tcl 最初是在 UNIX 平台上创建的，但咱们的 Tcl/Tk 脚本，在所有受支持平台上运行时都是一样的，只有少许不同之处。
 
