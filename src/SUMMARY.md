@@ -9,7 +9,7 @@
 - [字符串操作](string_manipulation.md)
 - [列表，list](lists.md)
 - [控制流, control flow](control_flow.md)
-- [过程，procudure, `proc`](proc.md)
+- [过程，procedure, `proc`](proc.md)
 - [文件操作，File Handling](file.md)
 
 # Tk GUI 框架
