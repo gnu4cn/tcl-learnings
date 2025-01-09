@@ -139,3 +139,8 @@ set <ARRAY_NAME>(<ELEMENT_ID>) <VALUE>
 | `array set` | `array set arrayName { list }` | 设置 `arrayName` 中一个或多个元素的值。*列表，list* 的形式必须与数组 `get` 返回的形式相同，由偶数个元素组成。列表中各个奇数元素，都会被视为 `arrayName` 中的元素名，而列表中的下一元素，会被用作该数组元素的新值。 |
 | `array size` | `arrary size arrayName` | 返回一个十进制字符串，表示数组中元素的个数。如果 `arrayName` 不是某个数组的名称，则返回 `0`。 |
 | `array names` | `array names arrayName ?mode? ?pattern?` | 返回一个列表，其中包含了字典中，与模式匹配的所有元素名称。其中模式可以是 `-exact`、`-glob` 或 `-regexp`。 |
+
+
+（End）
+
+

@@ -124,3 +124,8 @@ scale .scl -label {Number:} -orient h -digit 1 -from 0 -to 100 \
 pack .spn .scl
 ```
 
+
+
+（End）
+
+

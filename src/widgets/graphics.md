@@ -23,3 +23,8 @@ canvas .cns -relief sunken -background "blue"
 
 pack .cns
 ```
+
+
+（End）
+
+

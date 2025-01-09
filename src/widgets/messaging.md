@@ -27,3 +27,8 @@ pack .lab .ent .but
 
 `-justify`（对齐）选项，用于指定文本行的对齐方式。必须是 `left`（左对齐）、`center` （居中）或 `right` （右对齐）之一。默认为 `left`。该选项与 `anchor`、`aspect`、`padX`、`padY` 和 `width` 选项配合使用，可在该视窗中，提供多种文本排列方式。
 
+
+
+（End）
+
+

@@ -83,3 +83,8 @@ What you pressed remindes married men of what they never will have
 > 1. 最后一个绑定为 `Control-Key-Escape`，但 `Ctrl+Esc` 快捷键，在 Windows 10 上已被系统使用，按下时会弹出开始菜单，故会先被系统拦截，导致咱们的程序无法拦截到此快捷键绑定；
 >
 > 2. 当 `Ctrl` 出现在 `modifier-modifier-type-detail` 中时，不能写 `Ctrl`，而必须写出 `Control` 这样的完整形式。
+
+
+（End）
+
+

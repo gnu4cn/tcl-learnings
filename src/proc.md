@@ -59,3 +59,8 @@ set sum [plus 1 2]
 label .txt -text "Sum of 1 and 2 is $sum"
 pack .txt
 ```
+
+
+（End）
+
+

@@ -28,3 +28,8 @@ Error in startup script: can't read "0": no such variable
 ```
 
 更好的写法，应是：`#!/usr/bin/env wish`。
+
+
+（End）
+
+

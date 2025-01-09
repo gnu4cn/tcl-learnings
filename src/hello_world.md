@@ -75,3 +75,8 @@ puts "Hello World"
 上述脚本是在 UNIX 环境下，使用 Tcl 打印 "Hello World" 的方法。在 Windows 中，如果使用 `wish` 执行该脚本，则什么也看不到。
 
 > **注意**：实际上，使用 Windows 上的 `wish` 执行该脚本，是可以打开一个窗口，并显示出那个标签的。
+
+
+（End）
+
+

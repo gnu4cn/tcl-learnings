@@ -174,3 +174,8 @@ PS C:\tools\msys64\home\Lenny.Peng\tcl-scripts> wish -encoding utf-8 .\tk_gui_de
 > *参考链接*：[Multiple arguments in shebang](https://unix.stackexchange.com/a/477651)
 
 类似地，也可以写这样的 Shebang：`#!/usr/bin/env -S tclsh -encoding utf-8`。
+
+
+（End）
+
+

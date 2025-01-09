@@ -46,3 +46,8 @@
 - `-width WIDTH`，设置小部件的水平尺寸；
 
 - `-wraplength LENGHT`，单词换行的最大字符长度，word wrapping maximum string length；
+
+
+（End）
+
+
