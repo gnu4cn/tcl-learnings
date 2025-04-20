@@ -299,10 +299,14 @@
       <script src="{{ path_to_root }}highlight.js"></script>
       <script src="{{ path_to_root }}book.js"></script>
 
+
       <!-- Custom JS scripts -->
       {{#each additional_js}}
       <script src="{{ ../path_to_root }}{{this}}"></script>
       {{/each}}
+
+      <script src="{{ path_to_root }}theme/groovy.min.js"></script>
+      <script>hljs.initHighlightingOnLoad();</script>
 
       {{#if is_print}}
       {{#if mathjax_support}}

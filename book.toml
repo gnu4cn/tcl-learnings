@@ -14,7 +14,7 @@ renderer = ["html"]
 [preprocessor.pagetoc]
 [output.html]
 additional-css = ["theme/pagetoc.css"]
-additional-js  = ["theme/pagetoc.js"]
+additional-js  = ["theme/pagetoc.js", "theme/tcl.min.js"]
 git-repository-url = "https://github.com/gnu4cn/tcl-learnings"
 git-repository-icon = "fa-github"
 
